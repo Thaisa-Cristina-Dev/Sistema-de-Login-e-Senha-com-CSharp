@@ -2,5 +2,6 @@
 
 - Conexão com o SqlServer pelo C#
 
-![cadastro](https://user-images.githubusercontent.com/94863117/174461299-4e0d619f-5889-4cc5-8c34-ce8c6d57a489.jpg)
-![logado](https://user-images.githubusercontent.com/94863117/174461300-e6ca415c-86cf-443b-86b5-552f1013e117.jpg)
+
+![cadastro](https://user-images.githubusercontent.com/94863117/174465989-0bc4a833-27db-440b-aa93-745cb9910b9d.jpg)
+![logado](https://user-images.githubusercontent.com/94863117/174465995-b4501986-7487-4815-adb2-a7d4d2ef445b.jpg)
